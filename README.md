@@ -38,6 +38,9 @@
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/></code>
 	<code><img width="50" src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code"/></code>
     <code><img width="50" src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" title="Visual Studio"/></code>
+		<code><a href="https://www.credly.com/badges/37c80406-9daf-4a13-9a0a-29ce449983ab/public_url" target="_blank"><img width="50" src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="CCNA: Introduction to Networks badge. Issued by Cisco" title="CCNA: Introduction to Networks badge. Issued by Cisco"></a></code>
+	<code><a href="https://www.credly.com/badges/2c1c478d-5cb7-473c-9988-72ef2499ba2f/public_url" target="_blank"><img width="50" src="https://images.credly.com/size/680x680/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" alt="CCNA: Switching, Routing, and Wireless Essentials badge. Issued by Cisco" title="CCNA: Switching, Routing, and Wireless Essentials badge. Issued by Cisco"></a></code>
+	<code><a href="https://www.credly.com/badges/d2d69750-1389-4f84-aa53-0fcd855590b6/public_url" target="_blank"><img width="50" src="https://images.credly.com/size/680x680/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" alt="CCNA: Enterprise Networking, Security, and Automation. Issued by Cisco" title="CCNA: Enterprise Networking, Security, and Automation. Issued by Cisco"></a></code>
 	<code><img width="50" src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/></code>
 </div>
